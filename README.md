@@ -49,9 +49,17 @@
 <hr>
 <br>
 
-<div align="center">
+### Estadísticas de Github
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ansiedad07&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Estadísticas de ansiedad07" width="60%">
+  
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=ansiedad07&theme=synthwave&show_icons=true&locale=en&layout=compact" alt="ansiedad07" >
+
+
+<!-- <div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ansiedad07&&show_icons=true&include_all_commits=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Estadísticas de ansiedad07" width="60%">
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ansiedad07&theme=synthwave&show_icons=true&locale=en&layout=compact" alt="ansiedad07" /></p>
-</div>
+</div> -->
 
 <br>
 <hr>
